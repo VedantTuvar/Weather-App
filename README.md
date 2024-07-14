@@ -1,5 +1,4 @@
 # Weather-App
-Weather App
 
 **Overview:**  
 The Weather App is a user-friendly application that provides accurate weather information for any location around the world.
