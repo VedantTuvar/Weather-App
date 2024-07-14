@@ -13,5 +13,6 @@ The Weather App is a user-friendly application that provides accurate weather in
 **User-friendly Interface:** Simple and intuitive design for a seamless user experience.
 
 **Technologies Used:**
+
 **Frontend:** HTML, CSS, JavaScript
 **Version Control:** Git
